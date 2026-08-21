@@ -13,7 +13,7 @@ I'm Kim, and over the past few years I've gone from freelancing as a musician an
 
   ## About Me
 
-  - 🌱 QA Engineer at Ekahau — second year of breaking things on purpose and making robots break them for me.
+  - 🌱 QA Engineer at Ekahau — Breaking things on purpose and making robots break them for me.
 
   - 👯 I'm looking to grow as a QA Engineer
 
